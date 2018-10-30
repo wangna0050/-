@@ -1,0 +1,13 @@
+ body,p,input,h1,h2,h3,h4, h5,h6,ul,ol,dl,dd,form,input,li,dt{margin:0px;padding:0px;list-style:none;font-weight:normal;font-family:"微软雅黑"}   
+   img{border:none;}
+   a{text-decoration:none;list-style: none;border:0px;}
+    img,li{
+        border:0;
+        margin:0;
+        padding:0;
+        list-style: none;
+    }
+
+    img{
+        display:block;
+    }
